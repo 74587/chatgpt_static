@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{gU as t,xU as n}from"./4813494d-n4y1vfdftd3wfhs7.js";import{W as r,st as i,wt as a}from"./2340486e-gh6s19h8ofjisiyk.js";function o(e){return`${t}${new URL(e.url).search}`}var s,c,l=e((()=>{r(),n(),s=({request:e})=>{throw i(o(e))},c=a(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
+//# sourceMappingURL=finance-gmbpl4ch.js.map

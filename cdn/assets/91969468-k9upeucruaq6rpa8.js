@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{J4t as t,VUt as n,XMt as r,YNt as i,ZNt as a,bUt as o,cR as s,e3t as c,oNt as l,pR as u}from"./4813494d-dqxsoocxx23fmc6y.js";var d,f,p,m,h,g=e((()=>{n(),s(),r(),a(),c(),d=()=>!1,f=()=>!!l()?.includes(i.CanvasCodeExecution),p=e=>{let t=l(),{shouldBlockConsumerLockdownModeActionsForConversation:n}=u(e??o);return!!(!n&&t?.includes(i.CanvasCodeNetworkAccess))},m=()=>t(`2311599525`),h=()=>t(`3468624635`)||!1}));export{f as a,g as i,m as n,p as o,h as r,d as t};
-//# sourceMappingURL=91969468-k9upeucruaq6rpa8.js.map
