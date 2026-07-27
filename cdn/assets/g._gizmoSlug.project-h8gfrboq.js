@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{i as t,n,r}from"./371da970-mlybcpgc9xceafyv.js";e((()=>{t()}))();export{n as clientLoader,r as default};
+//# sourceMappingURL=g._gizmoSlug.project-h8gfrboq.js.map
