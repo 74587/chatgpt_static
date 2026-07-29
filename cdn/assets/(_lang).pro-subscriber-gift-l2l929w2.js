@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{W as t,wt as n}from"./2340486e-gh6s19h8ofjisiyk.js";var r,i=e((()=>{t(),r=n(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
-//# sourceMappingURL=(_lang).pro-subscriber-gift-l2l929w2.js.map
