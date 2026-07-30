@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{on as n}from"./2340486e-gh6s19h8ofjisiyk.js";function r(e){let t=[];return i.Children.forEach(e,e=>{typeof e==`string`||typeof e==`number`?t.push(e):i.isValidElement(e)&&t.push(r(e.props.children))}),t.join(``)}var i,a=e((()=>{i=t(n())}));export{a as n,r as t};
-//# sourceMappingURL=5c5e7dc5-h43h9lajm2pct53z.js.map

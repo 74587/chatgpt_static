@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Et as t,K as n}from"./2340486e-cq9nrp99ol4x4jou.js";import{n as r,t as i}from"./23f34471-b5s2sr37tvd3fu4n.js";var a,o,s=e((()=>{n(),i(),a=({request:e})=>{r(e)},o=t(function(){"use forget";return null})}));e((()=>{s()}))();export{a as clientLoader,o as default};
+//# sourceMappingURL=record.devtools._index-knsun97x.js.map
