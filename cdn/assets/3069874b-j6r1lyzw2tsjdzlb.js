@@ -1,3 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/a05edf66-jxjws1pymg24m8lu.js","assets/f025431a-ehagpvg3m4e1cduv.js","assets/4813494d-kah20os3gb9vrtd2.js","assets/2340486e-cq9nrp99ol4x4jou.js","assets/root-4cbk3kbb.css"])))=>i.map(i=>d[i]);
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{ILt as t,KLt as n,LLt as r,ULt as i}from"./4813494d-kah20os3gb9vrtd2.js";import{ln as a,un as o}from"./2340486e-cq9nrp99ol4x4jou.js";function s(e,t){if(t!=null){window.open(t,`_blank`,`noopener,noreferrer`);return}n(c,{urls:e})}var c,l=e((()=>{i(),r(),o(),c=t(()=>a(()=>import(`./a05edf66-jxjws1pymg24m8lu.js`).then(e=>e.SafeLinkWarningModal),__vite__mapDeps([0,1,2,3,4])))}));export{s as n,l as t};
-//# sourceMappingURL=3069874b-j6r1lyzw2tsjdzlb.js.map

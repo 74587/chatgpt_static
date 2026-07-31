@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{_8t as t,d8t as n}from"./4813494d-lr28nfznbvb3vh41.js";import{h8 as r,m8 as i}from"./conversation-small-cdeyfy6jf5sftxh1.js";function a(){return n(o)&&!n(s)&&i().gdriveLinkStatus===`true`}var o,s,c=e((()=>{r(),t(),o=`3001618585`,s=`2087423797`}));export{a as n,c as t};
+//# sourceMappingURL=99aacfb2-crwuzqg46pjtkj2d.js.map

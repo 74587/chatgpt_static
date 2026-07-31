@@ -1,0 +1,3 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/a05edf66-ehjul4ruwv7lj462.js","assets/f025431a-ehagpvg3m4e1cduv.js","assets/4813494d-lr28nfznbvb3vh41.js","assets/2340486e-cq9nrp99ol4x4jou.js","assets/root-4cbk3kbb.css"])))=>i.map(i=>d[i]);
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{DRt as t,_Rt as n,vRt as r,wRt as i}from"./4813494d-lr28nfznbvb3vh41.js";import{ln as a,un as o}from"./2340486e-cq9nrp99ol4x4jou.js";function s(e,n){if(n!=null){window.open(n,`_blank`,`noopener,noreferrer`);return}t(c,{urls:e})}var c,l=e((()=>{i(),r(),o(),c=n(()=>a(()=>import(`./a05edf66-ehjul4ruwv7lj462.js`).then(e=>e.SafeLinkWarningModal),__vite__mapDeps([0,1,2,3,4])))}));export{s as n,l as t};
+//# sourceMappingURL=3069874b-dui5e7sg1fk4lai8.js.map
