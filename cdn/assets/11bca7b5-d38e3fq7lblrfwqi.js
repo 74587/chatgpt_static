@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{FKt as t,N8t as n,P8t as r,jKt as i,uE as a,vE as o}from"./4813494d-f1puh0u8tu19x3d1.js";function s(){return[...a]}function c(e){if(!Array.isArray(e))return s();let t=a.filter(t=>e.includes(t));return t.length>0?t:s()}function l({providers:e,isGoogleDriveAccessible:t}){return!t&&e.length===1&&e[0]===`google_drive`?s():e}var u,d=e((()=>{o(),i(),r(),u=t(n.LibraryRecentProviders,s,{coerceStoredValue:c})}));export{d as n,u as r,l as t};
+//# sourceMappingURL=11bca7b5-d38e3fq7lblrfwqi.js.map
