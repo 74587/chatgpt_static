@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Fgt as t,Kgt as n,Pnt as r,Ugt as i,V8t as a,WU as o,jnt as s,oW as c,q8t as l}from"./4813494d-f1puh0u8tu19x3d1.js";var u,d,f,p,m=e((()=>{r(),c(),n(),l(),u=`selectedLinkId`,d=`renameAccountAfterConnect`,f=`pending`,p=({url:e,connectorId:n,linkId:r})=>{if(i(e.hash)===t.Plugins&&s(n,o)&&a(`2907394035`)){let[t,n]=e.hash.split(`?`),i=new URLSearchParams(n);i.set(u,r),i.get(d)===f&&i.set(d,r),e.hash=`${t}?${i.toString()}`}return e}}));export{m as n,p as t};
-//# sourceMappingURL=d6a45810-ie9vpilz03nccjmj.js.map
