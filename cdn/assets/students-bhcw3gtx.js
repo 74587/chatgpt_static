@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ot as t,kt as n,q as r}from"./2340486e-g9kw9f42ti7j4a7x.js";import{n as i,t as a}from"./9bfdcf20-eyijc70lgrwrd2xf.js";var o,s,c=e((()=>{r(),i(),o=t(function(){return null}),s=n(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
+//# sourceMappingURL=students-bhcw3gtx.js.map
