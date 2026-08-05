@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{St as n,Tt as r,dn as i,kt as a,q as o,yt as s}from"./2340486e-deknw1e54mtoyn5h.js";var c,l,u=e((()=>{o(),c=t(i()),l=a(function(){"use no forget";let e=n(),{search:t}=s(),{conversationId:i,n7jupdId:a}=r();return(0,c.useEffect)(()=>{},[i,e,a,t]),null})}));e((()=>{u()}))();export{l as default};
+//# sourceMappingURL=_conversation.c._conversationId.v._n7jupdId-fitj60o8.js.map

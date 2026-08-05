@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{Jtt as n,Xtt as r}from"./4813494d-zgv97fic7dxmnfvg.js";import{Ot as i,q as a,un as o,xt as s}from"./2340486e-g9kw9f42ti7j4a7x.js";var c,l,u=e((()=>{a(),r(),c=t(o()),l=i(function(){let e=s();return(0,c.useEffect)(()=>{n.addError(`This page should never be rendered.`),e(`/`)},[e]),null})}));e((()=>{u()}))();export{l as default};
-//# sourceMappingURL=continue_from_api-ozo5argb.js.map

@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Tet as t,jet as n}from"./4813494d-zgv97fic7dxmnfvg.js";function r(e){return a(`codex`,e)}function i(e){return a(`leaderboards`,e)}function a(e,t){let n=`${o}/${e}`;return t?`${n}?workspace_id=${encodeURIComponent(t)}`:n}var o,s=e((()=>{o=`https://admin.openai.com/analytics`}));function c(){return t(`1112571623`)}var l=e((()=>{n()}));export{s as a,i,c as n,r,l as t};
-//# sourceMappingURL=98d333a6-pdoa6afzywdq437j.js.map

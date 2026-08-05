@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Xvt as t}from"./conversation-small-96eaje0yqm7c4dhe.js";function n(e,t){return t===`deep_research_report`||e===`ready`||(t===`writing_block`||t===`chat_message_snapshot`)&&(e===`created`||e===`indexing`)?`available`:e===`failed`?`failed`:`unavailable`}var r=e((()=>{t()}));export{r as n,n as t};
-//# sourceMappingURL=b309a4a8-nybe8t69nmv3bjcl.js.map

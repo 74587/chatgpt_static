@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ot as t,Vt as n,_t as r,ln as i,q as a}from"./2340486e-g9kw9f42ti7j4a7x.js";var o,s,c=e((()=>{a(),o=n(),i(),s=t(function(){"use forget";(0,o.c)(7);let{grant:e,error:t}=r();return null})}));e((()=>{c()}))();export{s as default};
-//# sourceMappingURL=meeting_bot.dev-kh06dkne.js.map

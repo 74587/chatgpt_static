@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ot as t,dt as n,q as r}from"./2340486e-g9kw9f42ti7j4a7x.js";import{Z2t as i,n4t as a}from"./conversation-small-96eaje0yqm7c4dhe.js";function o(e){return`${i}${new URL(e.url).search}`}var s,c,l=e((()=>{r(),a(),s=({request:e})=>{throw n(o(e))},c=t(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
-//# sourceMappingURL=mattress-heoysrpk.js.map

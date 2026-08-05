@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ot as t,dt as n,q as r}from"./2340486e-g9kw9f42ti7j4a7x.js";function i(e){return`/saved-prompts${new URL(e.url).search}`}var a,o,s,c=e((()=>{r(),a={hasRouteMeta:!1,useScrollRestoration:!0},o=({request:e})=>{throw n(i(e))},s=t(function(){"use forget";return null})}));e((()=>{c()}))();export{o as clientLoader,s as default,a as handle};
-//# sourceMappingURL=_conversation.bookmarked-prompts-l23smbcb.js.map
