@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{n as t,r as n}from"./bfd5ba7b-c0uxllexm6t03aen.js";e((()=>{t()}))();export{n as default};
+//# sourceMappingURL=payments.success-d1zge9h7.js.map

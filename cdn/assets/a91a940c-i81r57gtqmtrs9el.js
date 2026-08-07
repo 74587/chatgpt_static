@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{KY as t,a7 as n,m7 as r,qY as i,r7 as a}from"./4813494d-lun4w4a45yaxsite.js";function o({conversationId:e,messageId:r,writingBlockId:i,impressionType:a}){t.logStructuredEvent(n,{conversationId:e??void 0,messageId:r,writingBlockId:i,impressionType:a})}function s({conversationId:e,messageId:n,writingBlockId:r,clickType:i}){t.logStructuredEvent(a,{conversationId:e??void 0,messageId:n,writingBlockId:r,clickType:i})}var c=e((()=>{r(),i()}));export{s as n,o as r,c as t};
+//# sourceMappingURL=a91a940c-i81r57gtqmtrs9el.js.map
