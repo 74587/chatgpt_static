@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Y as t,jt as n,pt as r}from"./2340486e-eagvzznw7lk1t4r3.js";import{a6t as i,e6t as a}from"./conversation-small-bsc9b9ylppveln62.js";function o(e){return`${a}${new URL(e.url).search}`}var s,c,l=e((()=>{t(),i(),s=({request:e})=>{throw r(o(e))},c=n(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
-//# sourceMappingURL=finance-icn30q1e.js.map

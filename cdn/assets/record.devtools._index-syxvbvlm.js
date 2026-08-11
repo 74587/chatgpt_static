@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Mt as t,Y as n}from"./2340486e-jxr87i3a388seyjr.js";import{n as r,t as i}from"./23f34471-jx4xd3cpdpni43mh.js";var a,o,s=e((()=>{n(),i(),a=({request:e})=>{r(e)},o=t(function(){"use forget";return null})}));e((()=>{s()}))();export{a as clientLoader,o as default};
+//# sourceMappingURL=record.devtools._index-syxvbvlm.js.map

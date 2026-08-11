@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Mt as t,Y as n}from"./2340486e-jxr87i3a388seyjr.js";var r,i=e((()=>{n(),r=t(function(){return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=appeal.age-bhm9hqx7.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Mt as t,Y as n}from"./2340486e-jxr87i3a388seyjr.js";var r,i,a=e((()=>{n(),r=({params:e,serverLoader:t})=>e.gizmoId===`health`?t():null,i=t(function(){"use forget";return null})}));e((()=>{a()}))();export{r as clientLoader,i as default};
+//# sourceMappingURL=_conversation.g._gizmoId.c._conversationId-okzryjzq.js.map

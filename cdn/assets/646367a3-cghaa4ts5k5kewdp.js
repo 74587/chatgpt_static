@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{cn as t,un as n}from"./2340486e-eagvzznw7lk1t4r3.js";var r,i=e((()=>{n(),r=t({id:`chatgpt.subscription.cancellation.modal.body.auto_reload_notice`,defaultMessage:`Auto-reload of credits will also be turned off when your subscription ends.`})}));export{r as n,i as t};
-//# sourceMappingURL=646367a3-cghaa4ts5k5kewdp.js.map
