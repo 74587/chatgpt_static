@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{GN as t,IN as n,PN as r,m4 as i,p4 as a}from"./4813494d-orghjlvngjx3uurx.js";function o({conversationId:e,messageId:t,writingBlockId:r,impressionType:i}){a.logStructuredEvent(n,{conversationId:e??void 0,messageId:t,writingBlockId:r,impressionType:i})}function s({conversationId:e,messageId:t,writingBlockId:n,clickType:i}){a.logStructuredEvent(r,{conversationId:e??void 0,messageId:t,writingBlockId:n,clickType:i})}var c=e((()=>{t(),i()}));export{s as n,o as r,c as t};
+//# sourceMappingURL=a91a940c-h3bmeqlgytw8ejiu.js.map

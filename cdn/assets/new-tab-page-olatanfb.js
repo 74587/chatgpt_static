@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Mt as t,Y as n,hn as r}from"./2340486e-jxr87i3a388seyjr.js";import{a as i,o as a}from"./8b34dbc2-yoa2y9gi1zceojg1.js";var o,s,c,l=e((()=>{n(),a(),o=r(),s=()=>[{title:`New Tab`}],c=t(function(){return(0,o.jsx)(i,{})})}));e((()=>{l()}))();export{c as default,s as meta};
-//# sourceMappingURL=new-tab-page-olatanfb.js.map

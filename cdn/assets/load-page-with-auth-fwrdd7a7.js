@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ct as n,Dt as r,Pt as i,Yt as a,Z as o,vn as s}from"./2340486e-nd3yhdd5stab0jxn.js";var c,l,u,d=e((()=>{o(),c=a(),l=t(s()),u=i(function(){"use forget";let e=(0,c.c)(5),t=n(),i=r(),[a,o]=(0,l.useState)(!1),s,u;return e[0]!==t.toPath||e[1]!==a||e[2]!==i?(s=()=>{a||(i(t.toPath,{replace:!0}),o(!0))},u=[a,t.toPath,i],e[0]=t.toPath,e[1]=a,e[2]=i,e[3]=s,e[4]=u):(s=e[3],u=e[4]),(0,l.useEffect)(s,u),null})}));e((()=>{d()}))();export{u as default};
+//# sourceMappingURL=load-page-with-auth-fwrdd7a7.js.map
