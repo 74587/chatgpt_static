@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{i as t,n,r,t as i}from"./48eff304-b3yq82h3t63gk2u3.js";var a=e((()=>{t(),n()}));e((()=>{a()}))();export{i as clientLoader,r as default};
+//# sourceMappingURL=redeem-credits._claimCode-cigl2x7r.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ft as t,Z as n,_t as r}from"./2340486e-ntgsg4a2ljrzv0ij.js";import{dan as i,gan as a}from"./conversation-small-c1ziqs0jcp1f9pz2.js";function o(e){return`${i}${new URL(e.url).search}`}var s,c,l=e((()=>{n(),a(),s=({request:e})=>{throw r(o(e))},c=t(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
+//# sourceMappingURL=finance-omiusy7p.js.map

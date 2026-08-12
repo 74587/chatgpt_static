@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";function t(e){return e.classifiers.library_artifact_type===i}function n(e){let t=e.originationThreadId?.trim();if(!t)return null;let n=`/c/`+t,r=e.originationMessageId?.trim();if(!r)return n;let i=new URLSearchParams({messageId:r});return n+`?`+i.toString()}function r(e){return t(e)?n(e):null}var i,a=e((()=>{i=`chat_message_snapshot`}));export{t as i,r as n,a as r,n as t};
-//# sourceMappingURL=dc53cebc-j3u1osuk3bsa06i0.js.map
