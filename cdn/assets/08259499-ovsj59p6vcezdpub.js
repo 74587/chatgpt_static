@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{$Z as t,d4 as n,f4 as r,iQ as i}from"./4813494d-mc7z398z65dcvd8t.js";var a,o=e((()=>{r(),i(),a=(e,r,i=!1)=>t.safeGet(`/aip/connectors/{connector_id}/tos`,{parameters:{path:{connector_id:e},...i?{query:{use_google_oauth_bundle_copy:!0}}:{}},additionalHeaders:r?{[n]:r}:void 0})}));export{o as n,a as t};
+//# sourceMappingURL=08259499-ovsj59p6vcezdpub.js.map

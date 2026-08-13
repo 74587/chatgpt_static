@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ft as t,Z as n,vn as r}from"./2340486e-ntgsg4a2ljrzv0ij.js";import{n as i,t as a}from"./8c6976e5-bwmk4z8qxcbc9ale.js";import{n as o,t as s}from"./16d1957c-b51blu20c3pz4eai.js";var c,l,u=e((()=>{n(),o(),a(),c=r(),l=t(function(){return(0,c.jsx)(s,{...i()})})}));e((()=>{u()}))();export{l as default};
+//# sourceMappingURL=admin.groups._index-govyzt2r.js.map
