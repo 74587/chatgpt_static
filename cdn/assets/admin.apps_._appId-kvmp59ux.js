@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ft as t,Xt as n,Z as r,jt as i,vn as a}from"./2340486e-ntgsg4a2ljrzv0ij.js";import{r as o,t as s}from"./8c6976e5-jvx67s5bybie5fve.js";import{n as c,t as l}from"./43c5b99b-d5xf9m831x879x9l.js";var u,d,f,p=e((()=>{r(),u=n(),c(),s(),d=a(),f=t(function(){"use forget";let e=(0,u.c)(2);o();let{appId:t}=i(),n=t===void 0?``:t,r;return e[0]===n?r=e[1]:(r=(0,d.jsx)(l,{appReference:n},n),e[0]=n,e[1]=r),r})}));e((()=>{p()}))();export{f as default};
+//# sourceMappingURL=admin.apps_._appId-kvmp59ux.js.map
