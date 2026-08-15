@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{hM as n,mM as r}from"./4813494d-jkpkgwwqilpq9s2f.js";import{Ft as i,Ot as a,Pt as o,Z as s,yn as c}from"./2340486e-ntgsg4a2ljrzv0ij.js";var l,u,d=e((()=>{s(),r(),l=t(c()),u=i(function(){let e=a(),[t]=o(),r=t.get(`next`),i=r!=null&&n(r)?r:`/`;return(0,l.useEffect)(()=>{e(i)},[i,e]),null})}));e((()=>{d()}))();export{u as default};
+//# sourceMappingURL=auth.ext_callback_refresh-delburo5.js.map
