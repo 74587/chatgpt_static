@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Lt as t,Rt as n,Z as r}from"./2340486e-hhm9uf1icbk586c4.js";import{n as i,t as a}from"./9bfdcf20-myrgj47ltp3st1s6.js";var o,s,c=e((()=>{r(),i(),o=t(function(){"use forget";return null}),s=n(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
+//# sourceMappingURL=(_lang).atlas._index-k7lgql3o.js.map
