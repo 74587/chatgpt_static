@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Lt as t,Qt as n,Z as r,bn as i}from"./2340486e-hhm9uf1icbk586c4.js";import{n as a,t as o}from"./25afeb5a-f6x9bdt2966i1i9d.js";var s,c,l,u,d,f=e((()=>{r(),s=n(),a(),c=i(),l={hasRouteMeta:!1,useScrollRestoration:!0},u=({serverLoader:e})=>e(),d=t(function(){"use forget";let e=(0,s.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=(0,c.jsx)(o,{}),e[0]=t):t=e[0],t})}));e((()=>{f()}))();export{u as clientLoader,d as default,l as handle};
-//# sourceMappingURL=_conversation.projects-llsiaq4y.js.map

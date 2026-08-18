@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Z as t,zt as n}from"./2340486e-eab5bn2wcgxcv5rd.js";var r,i=e((()=>{t(),r=n(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=settings._tab-irghars3.js.map

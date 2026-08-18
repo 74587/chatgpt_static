@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";var t,n,r,i=e((()=>{t=6e4,n=(e,t,...n)=>[`plugin-admin-v2`,e,t,...n],r=(e,t)=>n(`availability-mutation`,e,t)}));export{i,r as n,n as r,t};
+//# sourceMappingURL=e52f9c4e-d26llbjwpj9a0d4q.js.map

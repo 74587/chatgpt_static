@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{is as t}from"./4813494d-chn19eetsd85eqir.js";import{Lt as n,Z as r,_t as i}from"./2340486e-hhm9uf1icbk586c4.js";import{hgt as a}from"./conversation-small-bhwp0d01lstxr5nj.js";function o(e){return`${t}${new URL(e.url).search}`}var s,c,l=e((()=>{r(),a(),s=({request:e})=>{throw i(o(e))},c=n(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
-//# sourceMappingURL=mattress-jy7s7836.js.map
