@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,Z as n,zt as r}from"./2340486e-eab5bn2wcgxcv5rd.js";import{n as i,t as a}from"./9bfdcf20-h3y67244teqi1nhd.js";var o,s,c=e((()=>{n(),i(),o=r(function(){"use forget";return null}),s=t(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
-//# sourceMappingURL=(_lang).codex.mobile-g405mwor.js.map
