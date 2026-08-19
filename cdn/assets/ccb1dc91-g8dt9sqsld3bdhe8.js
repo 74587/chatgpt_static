@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";var t,n,r,i=e((()=>{t=String.raw,n=t`\p{Emoji}(?:\p{EMod}|[\u{E0020}-\u{E007E}]+\u{E007F}|\uFE0F?\u20E3?)`,r=()=>new RegExp(t`\p{RI}{2}|(?![#*\d](?!\uFE0F?\u20E3))${n}(?:\u200D${n})*`,`gu`)}));export{i as n,r as t};
+//# sourceMappingURL=ccb1dc91-g8dt9sqsld3bdhe8.js.map

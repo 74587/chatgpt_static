@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{i as t,r as n}from"./8d846022-habmttvqwy4a5siq.js";function r(){return[`https://${i}`,`https://*.${i}`]}var i,a,o,s,c,l=e((()=>{t(),i=`web-sandbox.oaiusercontent.com`,a=`https://${i}`,{origin:o,protocol:s}=new URL(a),r(),c=[o,...n]}));export{l as a,a as i,o as n,s as r,c as t};
+//# sourceMappingURL=7517017f-odevib5q01x6bari.js.map

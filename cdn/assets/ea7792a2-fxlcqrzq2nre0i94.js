@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{Cn as n}from"./2340486e-i20axdnmh5jcl165.js";var r,i,a,o=e((()=>{r=t(n()),i=(0,r.createContext)(null),a=()=>{let e=(0,r.useContext)(i);if(!e)throw Error(`useWidgetContext must be used within a WidgetContext.Provider`);return e}}));export{o as n,a as r,i as t};
+//# sourceMappingURL=ea7792a2-fxlcqrzq2nre0i94.js.map
