@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{GR as t,GZ as n,I4 as r,JR as i,L4 as a,RQ as o,VZ as s}from"./4813494d-meow6085i2spqgdd.js";function c(){return t()?.normalizedAccountUserId!=null&&u()}function l(){t()?.normalizedAccountUserId!=null&&o(()=>u.set(!0))}var u,d=e((()=>{s(),i(),a(),u=n(r.LibrarySelfRemovalConfirmationDismissedV1,()=>!1,{coerceStoredValue:e=>e===!0,scope:()=>({userId:t()?.normalizedAccountUserId})})}));export{l as n,c as r,d as t};
-//# sourceMappingURL=1f37ef3c-oi6ylsqzu70os00q.js.map
