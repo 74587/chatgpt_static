@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,Z as n,zt as r}from"./2340486e-i20axdnmh5jcl165.js";import{n as i,t as a}from"./9bfdcf20-c1sfp3b4gxb0urxm.js";var o,s,c=e((()=>{n(),i(),o=r(function(){"use forget";return null}),s=t(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
-//# sourceMappingURL=students-2026-claim-unavailable-n4t9mxtc.js.map

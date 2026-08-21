@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{$4 as t,a3 as n,e3 as r,i3 as i}from"./4813494d-gc8xrpfm69okc5zz.js";var a,o,s,c=e((()=>{n(),r(),a=`2518609868`,o=`entra_apps_connector_admin_permissions_homepage_beacon_enabled`,s=()=>i===`development`||t(a).get(o,!1)}));export{s as n,c as t};
+//# sourceMappingURL=58f127ca-ee30psmqnhdk8x9u.js.map
