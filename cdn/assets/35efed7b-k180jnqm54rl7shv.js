@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{s as t,w as n}from"./2340486e-i20axdnmh5jcl165.js";import{i as r,r as i}from"./bb1c2a79-n5d2p565fb49s1tc.js";import{i as a,t as o}from"./e52f9c4e-d26llbjwpj9a0d4q.js";var s,c=e((()=>{r(),t(),a(),s=({connectorId:e,workspaceId:t})=>{let r=()=>i({connectorId:e??``,workspaceId:t});return{...n({queryKey:[`connector-workspace-permissions`,t,e],enabled:t!==``&&e!=null&&e!==``,staleTime:o,queryFn:r}),queryFn:r,staleTime:o}}}));export{c as n,s as t};
-//# sourceMappingURL=35efed7b-k180jnqm54rl7shv.js.map

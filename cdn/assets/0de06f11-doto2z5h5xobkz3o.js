@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{wn as n}from"./2340486e-abcdn4jh3ig19emg.js";function r(){"use forget";let e=(0,i.useContext)(a);if(!e)throw Error(`useWritingBlockContext must be used within a WritingBlockContext`);return e}var i,a,o=e((()=>{i=t(n()),a=(0,i.createContext)(void 0)}));export{o as n,r,a as t};
+//# sourceMappingURL=0de06f11-doto2z5h5xobkz3o.js.map

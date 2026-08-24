@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";var t,n,r,i=e((()=>{t=`/r/b749fb02595e04c3007a54375f3f4374`,n=`${t}/status`,r=`${t}/submit`}));export{i,n,r,t};
+//# sourceMappingURL=6c85528f-bx5ikdx4t0dqrhct.js.map

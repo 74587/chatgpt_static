@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,Z as n,vt as r}from"./2340486e-abcdn4jh3ig19emg.js";function i(e){let t=new URL(e.url);return`${t.pathname.replace(a,o)}${t.search}${t.hash}`}var a,o,s,c,l=e((()=>{n(),a=`/codex/purchase`,o=`/purchase`,s=({request:e})=>{throw r(i(e),302)},c=t(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
+//# sourceMappingURL=codex.purchase._plan-dbyib6b3.js.map
