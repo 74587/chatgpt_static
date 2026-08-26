@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{i0 as t,r0 as n}from"./4813494d-lixph65m39r2dsuv.js";import{Ca as r,wa as i}from"./8b34dbc2-pe4roh8sixq3pim9.js";function a({allowIntegratedUX:e,disableVoiceButton:n,nuxMode:r,startSeparateVoiceMode:a}){if(!n){if(t()&&e){i(r);return}a()}}var o=e((()=>{r(),n()}));export{a as n,o as t};
-//# sourceMappingURL=3cc06638-oieys6q2o2ir1kfh.js.map
