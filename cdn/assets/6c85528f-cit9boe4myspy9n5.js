@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";function t(e,t){return t?`${e}${e.includes(`?`)?`&`:`?`}embedded=codex`:e}var n,r,i,a=e((()=>{n=`/r/b749fb02595e04c3007a54375f3f4374`,r=`${n}/status`,i=`${n}/submit`}));export{t as a,a as i,r as n,i as r,n as t};
+//# sourceMappingURL=6c85528f-cit9boe4myspy9n5.js.map
