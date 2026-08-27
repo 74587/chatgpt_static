@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{H2 as t,HY as n,RY as r,V2 as i}from"./4813494d-k0pbr7da5ypgp5oo.js";function a(e){return e===`list`||e===`grid`?e:o}var o,s,c=e((()=>{r(),t(),o=`list`,s=n(i.RecallArtifactsViewMode,()=>o,{coerceStoredValue:a})}));export{c as n,s as t};
-//# sourceMappingURL=ad8b328d-mhfmtlt2psi5pfzm.js.map

@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{Dt as n,Z as r,jt as i,tn as a,wn as o}from"./2340486e-abcdn4jh3ig19emg.js";function s(){"use forget";let e=(0,c.c)(4),{movedConversationId:t}=n(),r=i(),a,o;return e[0]!==t||e[1]!==r?(a=()=>{r(`/c/${t}`,{replace:!0})},o=[t,r],e[0]=t,e[1]=r,e[2]=a,e[3]=o):(a=e[2],o=e[3]),(0,l.useEffect)(a,o),null}var c,l,u=e((()=>{c=a(),l=t(o()),r()})),d=e((()=>{u()}));e((()=>{d()}))();export{s as default};
-//# sourceMappingURL=mac._anonThreadId-h3hwruxs.js.map
