@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{mz as n,pz as r}from"./4813494d-kvg6gfmcudxn6gjz.js";import{Bt as i,Tn as a,Z as o,jt as s,zt as c}from"./2340486e-m6nxarr6ck977yif.js";var l,u,d=e((()=>{o(),r(),l=t(a()),u=i(function(){let e=s(),[t]=c(),r=t.get(`next`),i=r!=null&&n(r)?r:`/`;return(0,l.useEffect)(()=>{e(i)},[i,e]),null})}));e((()=>{d()}))();export{u as default};
-//# sourceMappingURL=auth.ext_callback_refresh-f1h0jzba.js.map
