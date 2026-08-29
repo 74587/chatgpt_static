@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Sn as t,bn as n}from"./2340486e-m6nxarr6ck977yif.js";var r,i=e((()=>{t(),r=n({id:`chatgpt.skills.creation.disabled_by_admin.tooltip`,defaultMessage:`Disabled by admin`})}));export{r as n,i as t};
-//# sourceMappingURL=67f107bf-ewp7w1pwp2vk03rk.js.map

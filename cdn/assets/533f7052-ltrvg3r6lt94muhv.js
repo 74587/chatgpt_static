@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{C4 as t,k4 as n}from"./4813494d-fgngepol4qp0a9cb.js";function r(){return`${o()}/verification`}function i(){return`${o()}/eligible-institutions`}function a(){return`${o()}/invite`}function o(){return t(`1425550309`)?`/academic-researchers`:`/sophia`}var s=e((()=>{n()}));export{s as i,a as n,r,i as t};
-//# sourceMappingURL=533f7052-ltrvg3r6lt94muhv.js.map

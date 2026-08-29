@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Z as t,zt as n}from"./2340486e-baqct44cv17onimj.js";var r,i=e((()=>{t(),r=n(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=business-free-workspace-bc408dom.js.map
