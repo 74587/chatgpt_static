@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,Z as n}from"./2340486e-bcoev3jbtc75b03s.js";var r,i,a=e((()=>{n(),r=()=>[{title:`Codex`}],i=t(function(){"use forget";return null})}));e((()=>{a()}))();export{i as default,r as meta};
+//# sourceMappingURL=codex.cloud.settings.managed-configs-iejub0oz.js.map

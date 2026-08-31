@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,Z as n}from"./2340486e-bcoev3jbtc75b03s.js";var r,i=e((()=>{n(),r=t(function(){"use forget";return null})}));e((()=>{i()}))();export{r as default};
+//# sourceMappingURL=(_lang).work.chrome.installed-eklwwq9s.js.map

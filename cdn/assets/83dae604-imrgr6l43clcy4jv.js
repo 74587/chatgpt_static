@@ -1,0 +1,2 @@
+import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ln as n}from"./2340486e-bcoev3jbtc75b03s.js";function r(e,t){(0,i.useEffect)(()=>{let n=n=>{e.every(e=>!e.current?.contains(n.target))&&t()};return document.addEventListener(`click`,n),()=>{document.removeEventListener(`click`,n)}},[t,e])}var i,a=e((()=>{i=t(n())}));export{r as n,a as t};
+//# sourceMappingURL=83dae604-imrgr6l43clcy4jv.js.map

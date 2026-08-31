@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Mn as t,Nn as n}from"./2340486e-baqct44cv17onimj.js";var r,i=e((()=>{n(),r=t({list:{id:`automations.scheduled.browserTitle`,defaultMessage:`Scheduled Tasks`},detail:{id:`automations.scheduled.detailBrowserTitle`,defaultMessage:`{taskName} | Scheduled Task`}})}));export{r as n,i as t};
-//# sourceMappingURL=e1547446-b10onuhnk1ikdsne.js.map
