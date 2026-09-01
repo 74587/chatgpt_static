@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,In as n,Z as r,xn as i}from"./2340486e-bcoev3jbtc75b03s.js";import{n as a,t as o}from"./8c6976e5-cfa0bfzezui4icz8.js";import{i as s,s as c}from"./164523fd-egi5570n7xntxkwh.js";var l,u,d,f=e((()=>{r(),l=i(),c(),o(),u=n(),d=t(function(){"use forget";let e=(0,l.c)(2),{currentWorkspaceId:t}=a(),n;return e[0]===t?n=e[1]:(n=(0,u.jsx)(s,{workspaceId:t}),e[0]=t,e[1]=n),n})}));e((()=>{f()}))();export{d as default};
-//# sourceMappingURL=admin.service-accounts._index-ni328ccp.js.map
