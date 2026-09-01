@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{_3 as n,y3 as r}from"./4813494d-jzyjqtfjftxoo40v.js";import{Bt as i,Ln as a,Z as o,jt as s}from"./2340486e-bcoev3jbtc75b03s.js";var c,l,u=e((()=>{o(),r(),c=t(a()),l=i(function(){let e=s();return(0,c.useEffect)(()=>{n.addError(`This page should never be rendered.`),e(`/`)},[e]),null})}));e((()=>{u()}))();export{l as default};
-//# sourceMappingURL=continue_from_api-tehaj90m.js.map

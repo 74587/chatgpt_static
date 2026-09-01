@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";var t,n=e((()=>{t=e=>typeof e==`object`&&!!e&&!(`type`in e)&&`component`in e&&typeof e.component==`string`&&`state`in e&&typeof e.state==`object`&&e.state!=null&&!Array.isArray(e.state)}));export{t as n,n as t};
+//# sourceMappingURL=f5d46cae-nnxa5uj2qsbil5k0.js.map
