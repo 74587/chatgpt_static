@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ln as t,xn as n}from"./2340486e-hpg4hay6kru8ymfa.js";var r,i,a,o=e((()=>{r=n(),i=t(),a=e=>{"use forget";let t=(0,r.c)(2),{className:n}=e,a;return t[0]===n?a=t[1]:(a=(0,i.jsx)(`img`,{alt:``,"aria-hidden":`true`,className:n,referrerPolicy:`no-referrer`,src:`/images/ecosystem/apps/discord/icon.svg`}),t[0]=n,t[1]=a),a}}));export{o as n,a as t};
+//# sourceMappingURL=020818bc-i8zgzdj1t7yiqs2m.js.map

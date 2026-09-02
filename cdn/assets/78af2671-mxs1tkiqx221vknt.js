@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";function t(e,t=globalThis.location?.origin){try{let n=new URL(e,t),r=n.pathname.replace(/\/+$/,``);return r.endsWith(`/backend-api`)?n.pathname=`${r}/admin`:r.endsWith(`/api`)?n.pathname=`${r.slice(0,-4)}/admin`:n.pathname=`${r}/admin`,n.search=``,n.hash=``,n.toString()}catch{return`${e.replace(/\/+$/,``)}/admin`}}var n=e((()=>{}));export{n,t};
+//# sourceMappingURL=78af2671-mxs1tkiqx221vknt.js.map

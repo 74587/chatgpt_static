@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ln as n}from"./2340486e-bcoev3jbtc75b03s.js";var r,i,a,o=e((()=>{r=t(n()),i=(0,r.createContext)(null),a=()=>{let e=(0,r.useContext)(i);if(!e)throw Error(`useWidgetContext must be used within a WidgetContext.Provider`);return e}}));export{o as n,a as r,i as t};
-//# sourceMappingURL=ea7792a2-d8t9vw1yau11kmv0.js.map

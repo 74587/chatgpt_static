@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{aV as n,iV as r,rV as i}from"./4813494d-d6xmo1ee0mn6y0hn.js";import{Ln as a,Z as o,jt as s}from"./2340486e-bcoev3jbtc75b03s.js";function c(e){let t=s();(0,l.useEffect)(()=>{e||t(n(i.NO_ACCESS))},[e,t])}var l,u=e((()=>{r(),l=t(a()),o()}));export{c as n,u as t};
-//# sourceMappingURL=29946bd6-k2i0mx4znthyyaup.js.map

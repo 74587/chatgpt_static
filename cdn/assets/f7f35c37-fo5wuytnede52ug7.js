@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Mn as t,Pn as n}from"./2340486e-bcoev3jbtc75b03s.js";var r,i=e((()=>{n(),r=t({id:`chatgpt.work.source_citation.toast.open_error`,defaultMessage:`Couldn't open source`})}));export{r as n,i as t};
-//# sourceMappingURL=f7f35c37-fo5wuytnede52ug7.js.map
