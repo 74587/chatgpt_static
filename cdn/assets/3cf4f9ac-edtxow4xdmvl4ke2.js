@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{As as t,Es as n}from"./4813494d-m3ykw98vzdk0ypm2.js";import{nCt as r,rCt as i}from"./conversation-small-fzca6r9q66mqui6h.js";function a(e){return e.libraryFileId!=null&&!r(e)?e.libraryFileId:e.source?.type===`google_drive`&&t(e.source.fileId)?e.source.fileId:null}function o(e){return a(e)!=null}var s=e((()=>{i(),n()}));export{s as n,o as r,a as t};
+//# sourceMappingURL=3cf4f9ac-edtxow4xdmvl4ke2.js.map

@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,Ft as n,Ln as r,Z as i,xn as a}from"./2340486e-hpg4hay6kru8ymfa.js";import{a as o,t as s}from"./55466ed9-k4d2pd27v9vnjwvt.js";var c,l,u,d=e((()=>{i(),c=a(),o(),l=r(),u=t(function(){"use forget";let e=(0,c.c)(2),{serviceAccountId:t}=n(),r;return e[0]===t?r=e[1]:(r=(0,l.jsx)(s,{serviceAccountUserId:t}),e[0]=t,e[1]=r),r})}));e((()=>{d()}))();export{u as default};
+//# sourceMappingURL=admin.service-accounts._serviceAccountId-lclkip3c.js.map
