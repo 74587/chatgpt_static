@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,Ln as n,Z as r,xn as i}from"./2340486e-hpg4hay6kru8ymfa.js";var a,o,s=e((()=>{r(),a=i(),n(),o=t(function(){"use forget";let e=(0,a.c)(1),t;return e[0]===Symbol.for(`react.memo_cache_sentinel`)?(t=null,e[0]=t):t=e[0],t})}));e((()=>{s()}))();export{o as default};
-//# sourceMappingURL=quorum-example-preview-i3vv7fvo.js.map

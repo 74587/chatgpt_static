@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{E4 as t,O4 as n}from"./4813494d-hqj0wyi7tqp9gqrk.js";function r(e){t.logStructuredEvent(`ChatgptCodexInviteCreditPromoShown`,e)}function i(e){t.logStructuredEvent(`ChatgptCodexInviteCreditPromoClicked`,{...e})}var a=e((()=>{n()}));export{i as n,r,a as t};
-//# sourceMappingURL=25e34381-m0kqp7rsnmm173wc.js.map
