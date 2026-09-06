@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Lq as t,bq as n,pq as r,qq as i,uq as a,yq as o}from"./4813494d-o593jrji51wy4azk.js";import{Sn as s}from"./2340486e-dyt4epctwx2pn2sj.js";function c(){"use forget";let e=(0,l.c)(2),t=i(),n;e[0]===t?n=e[1]:(n=t?.getWorkspaceId(),e[0]=t,e[1]=n);let{data:a}=r(n),s=a?.beta_settings.wham_local_access??!1,c=a?.permissions?.includes(o.AllowCodexLocalAccess)??!1,u=s&&c,d=t?.isEnterprisey()===!0;return!(!t||d&&!u)}var l,u=e((()=>{l=s(),n(),a(),t()}));export{c as n,u as t};
+//# sourceMappingURL=ab4d12c6-foemv9h5h6xxmqwi.js.map
