@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{A9 as t,j9 as n}from"./4813494d-gf2h57w5fiay19bd.js";function r(e){let n=e?.replace(/^\/api\/codex(?=\/|$)/u,`/wham`);return n?.startsWith(`/`)===!0?`${t}${n}`:n??null}var i=e((()=>{n()}));export{i as n,r as t};
-//# sourceMappingURL=b5855e1f-lxvtu0d6yf6hon6e.js.map
