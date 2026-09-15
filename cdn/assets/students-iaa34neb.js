@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bt as t,Q as n,Vt as r}from"./2340486e-lo737pyjfygyimqo.js";import{n as i,t as a}from"./9bfdcf20-hxzo7ugpvzav9dz7.js";var o,s,c=e((()=>{n(),i(),o=t(function(){return null}),s=r(a)}));e((()=>{c()}))();export{s as ErrorBoundary,o as default};
+//# sourceMappingURL=students-iaa34neb.js.map

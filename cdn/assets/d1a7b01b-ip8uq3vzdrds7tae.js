@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Jpt as t,Xpt as n}from"./conversation-small-newrvr7nrx5tnmp4.js";function r(){return/iPad|iPhone|iPod/.test(n)}function i(){return/Android/.test(n)}function a(){return r()&&n.includes(`CriOS`)}function o(){return r()||i()||a()}var s=e((()=>{t()}));export{o as n,s as t};
-//# sourceMappingURL=d1a7b01b-ip8uq3vzdrds7tae.js.map
