@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{n as t,r as n,t as r}from"./e3d36c63-n334ptklj8iqxm2d.js";e((()=>{t()}))();export{n as default,r as handle};
+//# sourceMappingURL=sophia.eligible-institutions-n32my6zc.js.map
