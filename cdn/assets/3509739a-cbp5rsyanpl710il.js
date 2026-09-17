@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{cet as t,det as n,fet as r,gtt as i,vtt as a}from"./4813494d-foacsr09jnvllsoc.js";var o,s=e((()=>{a(),n(),o=e=>{switch(e.type){case`hist`:return r.hist(t.WEB_SANDBOX,e.label,e.tags,e.value);case`count`:return r.count(t.WEB_SANDBOX,e.label,e.tags,e.count);case`error`:return i.addError(e.message);default:break}}}));export{s as n,o as t};
-//# sourceMappingURL=3509739a-cbp5rsyanpl710il.js.map
