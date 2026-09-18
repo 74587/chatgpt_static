@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{D7 as t,N7 as n,X0 as r,Z0 as i,k7 as a}from"./4813494d-ey5twmjq00hpe5nh.js";function o(){return t(`1495465110`)}var s,c=e((()=>{r(),n(),s=i(o,e=>{let t=a();return t.on(`values_updated`,e),()=>t.off(`values_updated`,e)},{name:`adminPluginRolePolicyUiEnabled`})}));export{c as n,o as r,s as t};
-//# sourceMappingURL=29ad5082-mj8ne5vap9a95i5l.js.map

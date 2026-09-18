@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Rl as t}from"./4813494d-ey5twmjq00hpe5nh.js";import{Q as n,Ut as r,xt as i}from"./2340486e-b3t78qt0psmq9d8c.js";import{TOt as a}from"./conversation-small-dm8c870z9iqiuair.js";function o(e){return`${t}${new URL(e.url).search}`}var s,c,l=e((()=>{n(),a(),s=({request:e})=>{throw i(o(e))},c=r(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
-//# sourceMappingURL=finance-hpp1qjol.js.map

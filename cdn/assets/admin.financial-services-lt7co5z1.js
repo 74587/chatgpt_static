@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bn as t,Q as n,Ut as r,wn as i}from"./2340486e-b3t78qt0psmq9d8c.js";import{n as a,t as o}from"./5b467af7-n5eyce9ag5fl7cly.js";import{a as s,n as c,t as l}from"./8c6976e5-gzluf36w559r9gcq.js";var u,d,f,p=e((()=>{n(),u=i(),a(),l(),d=t(),f=r(function(){"use forget";let e=(0,u.c)(2),{currentWorkspaceId:t}=c();s();let n;return e[0]===t?n=e[1]:(n=(0,d.jsx)(o,{workspaceId:t},t),e[0]=t,e[1]=n),n})}));e((()=>{p()}))();export{f as default};
+//# sourceMappingURL=admin.financial-services-lt7co5z1.js.map
