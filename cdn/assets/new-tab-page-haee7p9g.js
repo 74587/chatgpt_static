@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bn as t,Q as n,Ut as r}from"./2340486e-b3t78qt0psmq9d8c.js";import{a as i,s as a}from"./8b34dbc2-buo3nv0ud2498ep6.js";var o,s,c,l=e((()=>{n(),a(),o=t(),s=()=>[{title:`New Tab`}],c=r(function(){return(0,o.jsx)(i,{})})}));e((()=>{l()}))();export{c as default,s as meta};
+//# sourceMappingURL=new-tab-page-haee7p9g.js.map
