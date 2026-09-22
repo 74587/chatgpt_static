@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{U2 as t,z2 as n}from"./4813494d-l0x0s7iuq5eywkh0.js";function r(e){return e==null||!e.isOwnerOfAccount()||!e.isSelfServeBusiness()||!e.eligibleForReactivation?null:e.hasPaidSubscription()?`customer_portal`:`checkout`}async function i(e){return(await n.safeGet(`/payments/customer_portal`,{parameters:{query:{account_id:e}}})).url}var a=e((()=>{t()}));export{r as n,a as r,i as t};
-//# sourceMappingURL=1e5e38ab-loskpz74s4c293fd.js.map
