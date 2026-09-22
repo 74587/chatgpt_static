@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{DJ as t,G5 as n,Ij as r,P6 as i,bJ as a,c6 as o,jj as s,yet as c}from"./4813494d-gycm0sx6lon4voy5.js";function l(e,t){let n=s({urlGizmoId:t}),r={kind:o.GizmoInteraction,gizmo_id:t};return a.initThread({clientThreadId:n.id,conversationMode:r,accountId:e.id,userId:c()?.user?.id}),{conversation:n,conversationMode:r}}var u=e((()=>{i(),r(),t(),n()}));export{u as n,l as t};
-//# sourceMappingURL=e56fc63e-dh2pndhmo83cqlub.js.map
