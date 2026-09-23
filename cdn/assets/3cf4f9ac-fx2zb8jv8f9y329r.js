@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{FMt as t,IMt as n,X6t as r,e8t as i}from"./conversation-small-hcbe4nlf7fw13ckt.js";function a(e){return e.libraryFileId!=null&&!t(e)?e.libraryFileId:e.source?.type===`google_drive`&&i(e.source.fileId)?e.source.fileId:null}function o(e){return a(e)!=null}var s=e((()=>{n(),r()}));export{s as n,o as r,a as t};
+//# sourceMappingURL=3cf4f9ac-fx2zb8jv8f9y329r.js.map
