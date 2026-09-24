@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Bun as t,Gun as n,Run as r}from"./conversation-small-ab2gxn0wnfhjaqoy.js";function i(e){return e!=null&&n(e)}function a(e,t=r()){if(e==null||!i(e)||e.safety_check_status===`approved`)return null;let n=e.safety_scan?.risk_score;return typeof n!=`number`||Number.isNaN(n)?null:n>=t.minBlockedSafetyScore?`blocked`:n>=t.minWarningSafetyScore?`needsReview`:null}var o=e((()=>{t()}));export{o as n,i as r,a as t};
+//# sourceMappingURL=8f504e8b-d0zocm8v4gu9d1dg.js.map

@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{n as t,r as n,t as r}from"./39e3b9e4-nb1ch3nnck6flrl9.js";e((()=>{t()}))();export{n as default,r as handle};
-//# sourceMappingURL=sophia.invite-dvznrf8x.js.map

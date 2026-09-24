@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{NF as t,PF as n}from"./4813494d-1a64rqvp3ruwzfd7.js";function r(e){return e?.toUpperCase()===`KR`}function i(){return r(t().country)}var a=e((()=>{n()}));export{i as n,a as t};
-//# sourceMappingURL=f0880031-ne2mt6ursg2lw0w3.js.map
