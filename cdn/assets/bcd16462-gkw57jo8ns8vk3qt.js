@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ent as t,Ont as n}from"./4813494d-ntf51ax9e0u08606.js";function r(e,n,r){t.addAction(o(e,n),r)}function i(e,n,r,i){let a=o(e,n);t.addAction(a,{...i,severity:`error`}),t.addError(r,{...i,metric:a})}var a,o,s=e((()=>{n(),a=`k12_ui`,o=(e,t)=>`${a}_${e}_${t}`}));export{i as n,r,s as t};
-//# sourceMappingURL=bcd16462-gkw57jo8ns8vk3qt.js.map

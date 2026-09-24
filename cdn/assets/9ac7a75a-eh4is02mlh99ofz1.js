@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{$9 as t,B9 as n,J9 as r,aA as i,iA as a,j9 as o,k9 as s,oA as c,rA as l}from"./4813494d-ntf51ax9e0u08606.js";function u(){return a(m())}async function d(){let e=m();return l(e,e===`macos`?await s():null)}async function f(){let e=await d();return e.type===`download_url`?e.url:null}function p(e){return u()!=null&&c(e)}function m(){return t()?`windows`:r()&&!n()?`macos`:null}var h=e((()=>{i(),o()}));export{f as a,d as i,h as n,p as r,u as t};
-//# sourceMappingURL=9ac7a75a-eh4is02mlh99ofz1.js.map
