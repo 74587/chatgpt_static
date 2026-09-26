@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{Ft as n,Hn as r,Q as i,Tn as a,Wt as o,jt as s}from"./2340486e-cvl0axudepa7gku6.js";var c,l,u,d=e((()=>{i(),c=a(),l=t(r()),u=o(function(){"use forget";let e=(0,c.c)(5),t=s(),r=n(),[i,a]=(0,l.useState)(!1),o,u;return e[0]!==t.toPath||e[1]!==i||e[2]!==r?(o=()=>{i||(r(t.toPath,{replace:!0}),a(!0))},u=[i,t.toPath,r],e[0]=t.toPath,e[1]=i,e[2]=r,e[3]=o,e[4]=u):(o=e[3],u=e[4]),(0,l.useEffect)(o,u),null})}));e((()=>{d()}))();export{u as default};
-//# sourceMappingURL=load-page-with-auth-magajdli.js.map

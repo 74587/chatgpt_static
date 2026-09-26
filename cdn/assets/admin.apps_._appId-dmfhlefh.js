@@ -1,2 +1,0 @@
-import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Q as t,Tn as n,Vn as r,Wt as i,zt as a}from"./2340486e-cvl0axudepa7gku6.js";import{r as o,t as s}from"./8c6976e5-gqrdxt9ydgl3ntg3.js";import{n as c,t as l}from"./74e3c761-c657kxuofigy0rp0.js";var u,d,f,p=e((()=>{t(),u=n(),c(),s(),d=r(),f=i(function(){"use forget";let e=(0,u.c)(2);o();let{appId:t}=a(),n=t===void 0?``:t,r;return e[0]===n?r=e[1]:(r=(0,d.jsx)(l,{appReference:n},n),e[0]=n,e[1]=r),r})}));e((()=>{p()}))();export{f as default};
-//# sourceMappingURL=admin.apps_._appId-dmfhlefh.js.map

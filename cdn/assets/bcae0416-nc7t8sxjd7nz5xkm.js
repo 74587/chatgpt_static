@@ -1,2 +1,0 @@
-import{n as e,s as t}from"./f025431a-ehagpvg3m4e1cduv.js";import{Dw as n,Tw as r}from"./4813494d-eu29r5c5isg74cf4.js";import{Hn as i,Vn as a}from"./2340486e-cvl0axudepa7gku6.js";var o,s,c,l,u=e((()=>{o=t(i(),1),n(),s=a(),c=`Label`,l=o.forwardRef((e,t)=>(0,s.jsx)(r.label,{...e,ref:t,onMouseDown:t=>{t.target.closest(`button, input, select, textarea`)||(e.onMouseDown?.(t),!t.defaultPrevented&&t.detail>1&&t.preventDefault())}})),l.displayName=c}));export{u as n,l as t};
-//# sourceMappingURL=bcae0416-nc7t8sxjd7nz5xkm.js.map

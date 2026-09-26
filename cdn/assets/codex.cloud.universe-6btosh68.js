@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{i as t,n,r,t as i}from"./e0ce881f-b7lyrc14oodw4a1c.js";e((()=>{n()}))();export{i as default,r as meta,t as shouldRevalidate};
+//# sourceMappingURL=codex.cloud.universe-6btosh68.js.map
