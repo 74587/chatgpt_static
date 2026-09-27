@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{Yl as t}from"./4813494d-c3na6wu9gewlo57v.js";import{$ as n,Ct as r,Gt as i}from"./2340486e-kfapbrw5efyhrjct.js";import{DAt as a}from"./conversation-small-o4rcbm7lx6docgg4.js";function o(e){return`${t}${new URL(e.url).search}`}var s,c,l=e((()=>{n(),a(),s=({request:e})=>{throw r(o(e))},c=i(function(){"use forget";return null})}));e((()=>{l()}))();export{s as clientLoader,c as default};
+//# sourceMappingURL=finance-nnby04xb.js.map
