@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{t}from"./26501f9f-dhii3wrloq8o005o.js";var n=e((()=>{}));e((()=>{n()}))();export{t as clientLoader};
+//# sourceMappingURL=codex.settings.code-review-d0df1y6l.js.map

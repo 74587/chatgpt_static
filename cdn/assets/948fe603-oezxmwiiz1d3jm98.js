@@ -1,0 +1,2 @@
+import{n as e}from"./f025431a-ehagpvg3m4e1cduv.js";import{ait as t,iit as n,p5 as r,u5 as i}from"./4813494d-ob668aqd7g43r9r2.js";function a(){return new URL(n,globalThis.location?.origin??`http://localhost`).toString().replace(/\/$/,``)}function o(e){return{overrideBaseUrl:a(),overrideUrl:t=>(t.pathname=t.pathname.replace(encodeURIComponent(e),e),t)}}var s,c=e((()=>{t(),r(),s=new i({baseUrl:n})}));export{o as n,c as r,s as t};
+//# sourceMappingURL=948fe603-oezxmwiiz1d3jm98.js.map
